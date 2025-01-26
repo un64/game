@@ -2,143 +2,138 @@
 	"blacklist": [
 		{
 			"rid": 260971630,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10301"
 		},
 		{
 			"rid": 257746909,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10302"
 		},
 		{
 			"rid": 261059058,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10303"
 		},
 		{
 			"rid": 185953207,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10304"
 		},
 		{
 			"rid": 258780164,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10305"
 		},
 		{
 			"rid": 258712311,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10306"
 		},
 		{
 			"rid": 258823170,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10307"
 		},
 		{
 			"rid": 259116389,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10308"
 		},
 		{
 			"rid": 260567352,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "rc10309"
 		},
 		{
 			"rid": 221079909,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "Danil19102023"
 		},
 		{
 			"rid": 234855325,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "Danil19102024"
 		},
 		{
 			"rid": 262313698,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "MelanchoIia"
 		},
 		{
 			"rid": 262904229,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "xCandyShop"
 		},
 		{
 			"rid": 265977759,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "xKillaMode"
 		},
 		{
 			"rid": 268498111,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "KissMeAround"
 		},
 		{
 			"rid": 268707344,
-			"reason": "crasher",
+			"reason": "Session crasher",
 			"name": "xSigmaBoy"
 		},
 		{
 			"rid": 206625546,
 			"name": "smellywest4ever",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 213649907,
 			"name": "smellywest_noob",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 212484222,
 			"name": "smellywest_sucks",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 192430626,
 			"name": "smellywestfaher",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 213726303,
 			"name": "Smellywest_sh_it",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 212595260,
 			"name": "smellywestmoron",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 212594855,
 			"name": "smellywestpoop",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 65763818,
 			"name": "smellywest4eva",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 212552412,
 			"name": "smellywestdog",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 208603312,
 			"name": "smelIywest",
-			"reason": "crasher"
+			"reason": "Session crasher"
 		},
 		{
 			"rid": 222887509,
 			"name": "smellywest",
-			"reason": "crasher"
-		},
-		{
-			"rid": 173641481,
-			"name": "-aquamarina-",
-			"reason": "beta tester"
-		}		
+			"reason": "Session crasher"
+		}
 	]
 }

@@ -149,6 +149,16 @@
 			"rid": 71030329,
 			"reason": "Session kicker",
 			"name": "wilddihins"
+		},
+		{
+			"rid": 241283641,
+			"reason": "Session crasher",
+			"name": "MiningCash"
+		},
+		{
+			"rid": 169250445,
+			"reason": "Session crasher",
+			"name": "Ri0DaYoungOG"
 		}
 	]
 }

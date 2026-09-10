@@ -1,179 +1,214 @@
 {
 	"blacklist": [
 		{
-			"rid": 260971630,
+			"name": "rc10301",
 			"reason": "Session crasher",
-			"name": "rc10301"
+			"rid": "260971630"
 		},
 		{
-			"rid": 257746909,
+			"name": "rc10302",
 			"reason": "Session crasher",
-			"name": "rc10302"
+			"rid": "257746909"
 		},
 		{
-			"rid": 261059058,
+			"name": "rc10303",
 			"reason": "Session crasher",
-			"name": "rc10303"
+			"rid": "261059058"
 		},
 		{
-			"rid": 185953207,
+			"name": "rc10304",
 			"reason": "Session crasher",
-			"name": "rc10304"
+			"rid": "185953207"
 		},
 		{
-			"rid": 258780164,
+			"name": "rc10305",
 			"reason": "Session crasher",
-			"name": "rc10305"
+			"rid": "258780164"
 		},
 		{
-			"rid": 258712311,
+			"name": "rc10306",
 			"reason": "Session crasher",
-			"name": "rc10306"
+			"rid": "258712311"
 		},
 		{
-			"rid": 258823170,
+			"name": "rc10307",
 			"reason": "Session crasher",
-			"name": "rc10307"
+			"rid": "258823170"
 		},
 		{
-			"rid": 259116389,
+			"name": "rc10308",
 			"reason": "Session crasher",
-			"name": "rc10308"
+			"rid": "259116389"
 		},
 		{
-			"rid": 260567352,
+			"name": "rc10309",
 			"reason": "Session crasher",
-			"name": "rc10309"
+			"rid": "260567352"
 		},
 		{
-			"rid": 221079909,
+			"name": "Danil19102023",
 			"reason": "Session crasher",
-			"name": "Danil19102023"
+			"rid": "221079909"
 		},
 		{
-			"rid": 234855325,
+			"name": "Danil19102024",
 			"reason": "Session crasher",
-			"name": "Danil19102024"
+			"rid": "234855325"
 		},
 		{
-			"rid": 262313698,
+			"name": "MelanchoIia",
 			"reason": "Session crasher",
-			"name": "MelanchoIia"
+			"rid": "262313698"
 		},
 		{
-			"rid": 262904229,
+			"name": "xCandyShop",
 			"reason": "Session crasher",
-			"name": "xCandyShop"
+			"rid": "262904229"
 		},
 		{
-			"rid": 265977759,
+			"name": "xKillaMode",
 			"reason": "Session crasher",
-			"name": "xKillaMode"
+			"rid": "265977759"
 		},
 		{
-			"rid": 268498111,
+			"name": "KissMeAround",
 			"reason": "Session crasher",
-			"name": "KissMeAround"
+			"rid": "268498111"
 		},
 		{
-			"rid": 268707344,
+			"name": "xSigmaBoy",
 			"reason": "Session crasher",
-			"name": "xSigmaBoy"
+			"rid": "268707344"
 		},
 		{
-			"rid": 206625546,
+			"name": "smellywest4ever",
 			"reason": "Session crasher",
-			"name": "smellywest4ever"
+			"rid": "206625546"
 		},
 		{
-			"rid": 213649907,
+			"name": "smellywest_noob",
 			"reason": "Session crasher",
-			"name": "smellywest_noob"
+			"rid": "213649907"
 		},
 		{
-			"rid": 212484222,
+			"name": "smellywest_sucks",
 			"reason": "Session crasher",
-			"name": "smellywest_sucks"
+			"rid": "212484222"
 		},
 		{
-			"rid": 192430626,
+			"name": "smellywestfaher",
 			"reason": "Session crasher",
-			"name": "smellywestfaher"
+			"rid": "192430626"
 		},
 		{
-			"rid": 213726303,
+			"name": "Smellywest_sh_it",
 			"reason": "Session crasher",
-			"name": "Smellywest_sh_it"
+			"rid": "213726303"
 		},
 		{
-			"rid": 212595260,
+			"name": "smellywestmoron",
 			"reason": "Session crasher",
-			"name": "smellywestmoron"
+			"rid": "212595260"
 		},
 		{
-			"rid": 212594855,
+			"name": "smellywestpoop",
 			"reason": "Session crasher",
-			"name": "smellywestpoop"
+			"rid": "212594855"
 		},
 		{
-			"rid": 65763818,
+			"name": "smellywest4eva",
 			"reason": "Session crasher",
-			"name": "smellywest4eva"
+			"rid": "65763818"
 		},
 		{
-			"rid": 212552412,
+			"name": "smellywestdog",
 			"reason": "Session crasher",
-			"name": "smellywestdog"
+			"rid": "212552412"
 		},
 		{
-			"rid": 208603312,
+			"name": "smelIywest",
 			"reason": "Session crasher",
-			"name": "smelIywest"
+			"rid": "208603312"
 		},
 		{
-			"rid": 222887509,
+			"name": "smellywest",
 			"reason": "Session crasher",
-			"name": "smellywest"
+			"rid": "222887509"
 		},
 		{
-			"rid": 255225238,
+			"name": "KIllerNoobs21",
 			"reason": "Session crasher",
-			"name": "KIllerNoobs21"
+			"rid": "255225238"
 		},
 		{
-			"rid": 254170832,
+			"name": "xeinter_964",
 			"reason": "Session crasher",
-			"name": "xeinter_964"
+			"rid": "254170832"
 		},
 		{
-			"rid": 71030329,
+			"name": "wilddihins",
 			"reason": "Session kicker",
-			"name": "wilddihins"
+			"rid": "71030329"
 		},
 		{
-			"rid": 241283641,
+			"name": "MiningCash",
 			"reason": "Session crasher",
-			"name": "MiningCash"
+			"rid": "241283641"
 		},
 		{
-			"rid": 169250445,
+			"name": "Ri0DaYoungOG",
 			"reason": "Session crasher",
-			"name": "Ri0DaYoungOG"
+			"rid": "169250445"
 		},
 		{
-			"rid": 254648425,
+			"name": "Brithisc8",
 			"reason": "Session crasher",
-			"name": "Brithisc8"
+			"rid": "254648425"
 		},
 		{
-			"rid": 205865759,
+			"name": "pizdahahahah",
 			"reason": "Session crasher",
-			"name": "pizdahahahah"
+			"rid": "205865759"
 		},
 		{
-			"rid": 253504881,
+			"name": "nacisty",
 			"reason": "Session crasher",
-			"name": "-"
+			"rid": "288253477"
+		},
+		{
+			"name": "IyfestyIe",
+			"reason": "Session crasher",
+			"rid": "286279966"
+		},
+		{
+			"name": "ABT-40",
+			"reason": "Session crasher",
+			"rid": "274110814"
+		},
+		{
+			"name": "Danil19102026",
+			"reason": "Session crasher",
+			"rid": "286913122"
+		},
+		{
+			"name": "lIlH3RBlIl",
+			"reason": "Session crasher",
+			"rid": "297060556"
+		},
+		{
+			"name": "_xXx-KpecT-xXx_",
+			"reason": "Session crasher",
+			"rid": "257758945"
+		},
+		{
+			"name": "schnellefragen",
+			"reason": "Session crasher",
+			"rid": "230782888"
+		},
+		{
+			"name": "m_69_1784798839",
+			"reason": "Session crasher",
+			"rid": "215501285"
 		}
 	]
 }

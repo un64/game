@@ -225,6 +225,12 @@
 			"reason": "Session crasher",
 			"rid": "293969124",
 			"added": "12.09.2026"
+		},
+		{
+			"name": "CB3TO3AP",
+			"reason": "ABT-40 friend",
+			"rid": "296520316",
+			"added": "07.10.2026"
 		}
 	]
 }

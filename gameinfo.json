@@ -235,7 +235,7 @@
 		{
 			"name": "-zvendinho-",
 			"reason": "Session crasher",
-			"rid": "175265476",
+			"rid": "175 265 476",
 			"added": "01.11.2026"
 		},
 		{
@@ -249,6 +249,18 @@
 			"reason": "Session crasher",
 			"rid": "111319198",
 			"added": "01.11.2026"
+		},
+		{
+			"name": "-Nuggies",
+			"reason": "Session crasher",
+			"rid": "282295307",
+			"added": "08.11.2026"
+		},
+		{
+			"name": "-Delaney",
+			"reason": "Session crasher",
+			"rid": "286040506",
+			"added": "08.11.2026"
 		}
 	]
 }

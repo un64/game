@@ -261,6 +261,12 @@
 			"reason": "Session crasher",
 			"rid": "286040506",
 			"added": "08.11.2026"
+		},
+		{
+			"name": "LvlyPrincess",
+			"reason": "Session crasher",
+			"rid": "250416367",
+			"added": "08.11.2026"
 		}
 	]
 }

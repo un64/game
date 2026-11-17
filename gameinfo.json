@@ -261,12 +261,18 @@
 			"reason": "Session crasher",
 			"rid": "286040506",
 			"added": "08.11.2026"
-		},
+		,
 		{
 			"name": "-",
 			"reason": "blocker",
 			"rid": "250416367",
 			"added": "16.11.2026"
+		},
+		{
+			"name": "-",
+			"reason": "crasher",
+			"rid": "132040618",
+			"added": "17.11.2026"
 		}
 	]
 }
